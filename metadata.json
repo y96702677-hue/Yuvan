@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Booth - Time-Travel Photo Booth",
+  "description": "Step inside a vintage time-travel photo booth. Snap or upload your photo, analyze your facial characteristics with AI, and transport your face across historical eras from Ancient Egypt to Apollo 11.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
